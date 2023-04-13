@@ -1,0 +1,1 @@
+# Read up on Discord Development and create your bot account in a server
